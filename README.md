@@ -28,10 +28,6 @@ I'm a passionate software developer with a love for creating impactful solutions
 
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asaduzzaman70&show_icons=true&theme=radical)
-
 
 ## 📫 Contact Me
 
