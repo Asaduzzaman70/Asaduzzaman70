@@ -1,6 +1,9 @@
-# Hi there, I'm Asaduzzaman! 👋
+## <img src="images/Banner.png" alt="">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+<h1></h1> 
+<p align="center">
+Hi,<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="" width=40px>
+</p>
 
 ## 🚀 About Me
 
