@@ -5,113 +5,116 @@
 <br/>
 
 <div align="center">
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="35px"/>
-  <h1>Hey there! I'm Asaduzzaman Hisam</h1>
-  <h3>🚀 Junior Full-Stack Web Developer (MERN) · Bangladesh 🇧🇩</h3>
+
+# Asaduzzaman Hisam
+### `Full-Stack Web Developer` · `MERN Stack` · `Bangladesh 🇧🇩`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Junior+Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%94%A5;10%2B+Projects+Completed+%F0%9F%8F%86;Open+to+Work+%F0%9F%92%BC" alt="Typing SVG" />
+
 </div>
 
 <br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/asaduzzaman-hisam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:asaduzzamanhisam@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Asaduzzaman70&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaduzzaman-hisam/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asaduzzamanhisam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asaduzzaman70)
+[![Profile Views](https://komarev.com/ghpvc/?username=Asaduzzaman70&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/Asaduzzaman70)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a passionate **Junior Full-Stack Developer** specializing in the **MERN Stack**, based in Bangladesh. I've built **10+ projects** and I'm ready to bring creative, scalable solutions to your team.
-
-- 🌱 **Currently Learning:** React.js, Express.js & advancing my full-stack skills
-- 💬 **Ask Me About:** HTML · CSS · JavaScript · React · MongoDB · Node.js
-- 📫 **Reach Me At:** [asaduzzamanhisam@gmail.com](mailto:asaduzzamanhisam@gmail.com)
-- ⚡ **Fun Fact:** Proudly addicted to deep sleep 😴
-- 🎯 **Goal:** To express innovative, creative skills for company growth through impactful development
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-  </a>
-</p>
+```javascript
+const hisam = {
+  name:       "Asaduzzaman Hisam",
+  role:       "Junior Full-Stack Developer (MERN)",
+  location:   "Bangladesh 🇧🇩",
+  learning:   ["React.js", "Express.js", "System Design"],
+  askMeAbout: ["HTML", "CSS", "JavaScript", "React", "MongoDB", "Node.js"],
+  email:      "asaduzzamanhisam@gmail.com",
+  funFact:    "Proudly addicted to deep sleep 😴",
+  goal:       "Building scalable products that create real-world impact 🚀"
+};
+```
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ Tech Stack
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Asaduzzaman70&theme=nord&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-  </a>
-</p>
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511fa.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asaduzzaman70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzaman70&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asaduzzaman70&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Asaduzzaman70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzaman70&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Asaduzzaman70&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/asaduzzaman-hisam/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:asaduzzamanhisam@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="35" width="45"/>
-  </a>
-</p>
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <i>💼 Open to opportunities — let's build something amazing together!</i>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Asaduzzaman70&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asaduzzaman70&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Amazing Together!
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaduzzaman-hisam/)
+[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asaduzzamanhisam@gmail.com)
+
+<br/>
+
+> *"Code is not just syntax — it's a solution to real problems."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer" width="100%"/>
+
 </div>
